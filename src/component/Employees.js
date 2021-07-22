@@ -8,7 +8,7 @@ const Employees = (props) => {
     return (
         <div>
             <h1>List of employees</h1>
-            <Link to="/add">About</Link>
+            <Link to="/add">Add</Link>
             <div className='container'>{employees.employees.map((employee) => <Employee {...employee}/>)}</div>
         </div>
     );
