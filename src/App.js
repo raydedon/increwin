@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Employees from './component/Employees';
+import AddEmployee from './AddEmployee';
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
                     <Switch>
                         <Route path="/" exact component={Employees} />
                         <Route path="/home" component={Employees} />
-                        <Route path="/add" component={Employees} />
+                        <Route path="/add" component={AddEmployee} />
                     </Switch>
                 </div>
             </Router>
