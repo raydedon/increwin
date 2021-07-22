@@ -1,0 +1,25 @@
+{
+	"employees": [
+		{
+			"id": 1,
+			"name": "Animesh Ray",
+			"dob": "20-March-1986",
+			"designation": "Sr. Software Developer",
+			"imgSrc": "https://images.unsplash.com/photo-1626944790280-0bdbfc183d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+		},
+		{
+			"id": 2,
+			"name": "Dinesh Baboo",
+			"dob": "20-March-1989",
+			"designation": "Sr. Software Developer",
+			"imgSrc": "https://images.unsplash.com/photo-1626944790280-0bdbfc183d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+		},
+		{
+			"id": 3,
+			"name": "Amit Ray",
+			"dob": "20-March-1986",
+			"designation": "Sr. Software Developer",
+			"imgSrc": "https://images.unsplash.com/photo-1626944790280-0bdbfc183d77?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80"
+		}
+	]
+}
